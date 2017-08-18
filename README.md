@@ -1,24 +1,6 @@
-# README
+ProjectCamp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A project management app(SaaS) to manage multiple projects in one place. 
+Built with Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Faisal Hassan - 08/18/2017
