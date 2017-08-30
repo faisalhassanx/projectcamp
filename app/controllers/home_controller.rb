@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  skip_before_action :authenticate_tenant!, :only => [:index, :about]
+  skip_before_action :authenticate_tenant!, :only => [:index, :about, :contact]
 
   def index
     if current_user
@@ -15,6 +15,10 @@ class HomeController < ApplicationController
   end
   
   def about
+    
+  end
+  
+  def contact
     
   end
 
