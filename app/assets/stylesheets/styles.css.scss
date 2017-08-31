@@ -1,0 +1,32 @@
+.jumbotron {
+  //background-image: asset-url('yourimagename.png');
+  background-size: cover;
+}
+.no-side-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.no-left-padding {
+  padding-left: 0 !important;
+}
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.table tr td {
+  a.main-link {
+    color: #428bca;
+  }
+  a.main-link:hover {
+    background: none;
+  }
+}
+
+.table tr td {
+  a.main-link {
+    color: #181842;
+  }
+  a.main-link:hover {
+    background: none;
+  }
+}
