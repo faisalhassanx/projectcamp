@@ -1,6 +1,6 @@
 <% if current_user %>
-  <h3 class="pull-right">Organization: <%= @tenant.name %></h3>
-  <%= render 'projects/list' %>
+  <h3>Organization: <%= @tenant.name %></h3>
+  <%#= render 'projects/list' %>
 <% else %>
 <div class="jumbotron text-center">
 		<h2><strong>Welcome to ProjectCamp</strong></h2>
