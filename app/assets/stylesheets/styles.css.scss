@@ -1,6 +1,7 @@
 .jumbotron {
   //background-image: asset-url('yourimagename.png');
   background-size: cover;
+  padding: 30px;
 }
 .no-side-padding {
   padding-left: 0;
@@ -29,4 +30,9 @@
   a.main-link:hover {
     background: none;
   }
+}
+
+.well {
+  margin-bottom: 10px;
+  padding: 5px;
 }
