@@ -8,12 +8,14 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 gem 'coffee-rails', '~> 4.2'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'milia', github: 'jekuno/milia', branch: 'issue#76'
 gem 'hirb'
-gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
+gem 'jquery-rails'
+
 
 # gem 'redis', '~> 3.0'
 # gem 'bcrypt', '~> 3.1.7'
