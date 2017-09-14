@@ -15,7 +15,7 @@ gem 'devise'
 gem 'milia', github: 'jekuno/milia', branch: 'issue#76'
 gem 'hirb'
 gem 'jquery-rails'
-gem 'aws-sdk', '~> 3'
+gem 'aws-sdk-s3', '~> 1'
 
 # gem 'redis', '~> 3.0'
 # gem 'bcrypt', '~> 3.1.7'
